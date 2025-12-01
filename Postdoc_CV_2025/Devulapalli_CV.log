@@ -1,111 +1,77 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.7.22)  22 JUL 2025 19:02
- restricted system commands enabled.
-**Devulapalli_CV.tex
-(./Devulapalli_CV.tex
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  1 DEC 2025 11:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Devulapalli_CV.tex
+(Devulapalli_CV.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
-Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
-Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
-collection.
-luaotfload | conf : Root cache directory is "C:/Users/devi/AppData/Local/MiKTeX/
-luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
-olved path "C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/fo
-ntloader-2023-12-28.lua".
-Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.134
-Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "C:/Users/devi/AppData/Local/MiKTeX/
-luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
-Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
-Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
-Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 3
-Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
-Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/devi/AppData/
-Local/Programs/MiKTeX/tex/latex/curve/curve.cls
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/curve\curve.cls
 Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/carlisle/ltxtable.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\ltxtable.sty
 Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
-\col@sep=\dimen147
+\col@sep=\dimen148
 \ar@mcellbox=\box53
-\extrarowheight=\dimen148
+\extrarowheight=\dimen149
 \NC@list=\toks17
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box54
 )
-\TX@col@width=\dimen149
-\TX@old@table=\dimen150
-\TX@old@col=\dimen151
-\TX@target=\dimen152
-\TX@delta=\dimen153
-\TX@cols=\count273
+\TX@col@width=\dimen150
+\TX@old@table=\dimen151
+\TX@old@col=\dimen152
+\TX@target=\dimen153
+\TX@delta=\dimen154
+\TX@cols=\count275
 \TX@ftn=\toks18
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTleft=\skip51
 \LTright=\skip52
 \LTpre=\skip53
 \LTpost=\skip54
-\LTchunksize=\count274
-\LTcapwidth=\dimen154
+\LTchunksize=\count276
+\LTcapwidth=\dimen155
 \LT@head=\box55
 \LT@firsthead=\box56
 \LT@foot=\box57
 \LT@lastfoot=\box58
 \LT@gbox=\box59
-\LT@cols=\count275
-\LT@rows=\count276
-\c@LT@tables=\count277
-\c@LT@chunks=\count278
-\c@table=\count279
+\LT@cols=\count277
+\LT@rows=\count278
+\c@LT@tables=\count279
+\c@LT@chunks=\count280
+\c@table=\count281
 \LT@p@ftn=\toks19
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
-\calc@Acount=\count280
-\calc@Bcount=\count281
-\calc@Adimen=\dimen155
-\calc@Bdimen=\dimen156
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
 \calc@Askip=\skip55
 \calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
-\calc@Ccount=\count282
+\calc@Ccount=\count284
 \calc@Cskip=\skip57
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/filehook/filehook.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook.sty
 Package: filehook 2022/10/25 v0.8b Hooks for input files
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/filehook/filehook-2020.s
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook-2020.s
 ty
 Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 ))
@@ -120,162 +86,77 @@ Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 \leftheader@width=\skip66
 \rightheader@width=\skip67
 \titlespace=\skip68
-\c@bibcount=\count283
-\c@bibtotal=\count284
- (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo
+\c@bibcount=\count285
+\c@bibtotal=\count286
+ (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from C:/Users/devi/AppData/Local/Mi
-KTeX/luatex-cache/generic/names/luaotfload-names.luc.gz))
-(./settings.sty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/silence/silence.sty
+))
+(settings.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
 sages
-\sl@Save=\count285
-\sl@StateNumber=\count286
-\sl@MessageCount=\count287
-\sl@Casualties=\count288
+\sl@Save=\count287
+\sl@StateNumber=\count288
+\sl@MessageCount=\count289
+\sl@Casualties=\count290
 \sl@Filter=\toks20
 \sl@Message=\toks21
 \sl@UnexpandedMessage=\toks22
 \sl@Mess@ge=\toks23
-\sl@WarningCount=\count289
-\sl@WarningNumber=\count290
-\sl@WarningCasualties=\count291
+\sl@WarningCount=\count291
+\sl@WarningNumber=\count292
+\sl@WarningCasualties=\count293
 \sl@TempBOW=\toks24
 \sl@BankOfWarnings=\toks25
 LaTeX Info: Redefining \GenericWarning on input line 433.
-\sl@ErrorCount=\count292
-\sl@ErrorNumber=\count293
-\sl@ErrorCasualties=\count294
+\sl@ErrorCount=\count294
+\sl@ErrorNumber=\count295
+\sl@ErrorCasualties=\count296
 \sl@TempBOE=\toks26
 \sl@BankOfErrors=\toks27
 LaTeX Info: Redefining \GenericError on input line 601.
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifxetex.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluatex.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks28
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cf
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
 g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 106.
+Package graphics Info: Driver file: pdftex.def on input line 106.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
-File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
-) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/05/14 v25.9 The multilingual framework for pdfLaTeX, LuaLaT
 eX and XeLaTeX
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
-\bbl@readstream=\read2
-\l@afrikaans=\language2
-Package babel Info: Non-standard hyphenation setup on input line 118.
-\l@ancientgreek=\language3
-\l@armenian=\language4
-\l@assamese=\language5
-\l@basque=\language6
-\l@belarusian=\language7
-\l@bengali=\language8
-\l@bokmal=\language9
-\l@bulgarian=\language10
-\l@catalan=\language11
-\l@churchslavonic=\language12
-\l@classiclatin=\language13
-\l@coptic=\language14
-\l@croatian=\language15
-\l@czech=\language16
-\l@danish=\language17
-\l@dutch=\language18
-\l@esperanto=\language19
-\l@estonian=\language20
-\l@ethiopic=\language21
-\l@finnish=\language22
-\l@french=\language23
-\l@friulan=\language24
-\l@galician=\language25
-\l@georgian=\language26
-\l@german=\language27
-\l@greek=\language28
-\l@gujarati=\language29
-\l@hindi=\language30
-\l@hungarian=\language31
-\l@icelandic=\language32
-\l@indonesian=\language33
-\l@interlingua=\language34
-\l@irish=\language35
-\l@italian=\language36
-\l@kannada=\language37
-\l@kurmanji=\language38
-\l@latin=\language39
-\l@latvian=\language40
-\l@lithuanian=\language41
-\l@liturgicallatin=\language42
-\l@macedonian=\language43
-\l@malayalam=\language44
-\l@marathi=\language45
-\l@mongolian=\language46
-\l@mongolianlmc=\language47
-\l@monogreek=\language48
-\l@ngerman=\language49
-\l@nynorsk=\language50
-\l@occitan=\language51
-\l@oriya=\language52
-\l@pali=\language53
-\l@panjabi=\language54
-\l@piedmontese=\language55
-\l@polish=\language56
-\l@portuguese=\language57
-\l@romanian=\language58
-\l@romansh=\language59
-\l@russian=\language60
-\l@sanskrit=\language61
-\l@serbian=\language62
-\l@serbianc=\language63
-\l@slovak=\language64
-\l@slovenian=\language65
-\l@spanish=\language66
-\l@swedish=\language67
-\l@swissgerman=\language68
-\l@tamil=\language69
-\l@telugu=\language70
-\l@thai=\language71
-\l@turkish=\language72
-\l@turkmen=\language73
-\l@ukenglish=\language74
-\l@ukrainian=\language75
-\l@uppersorbian=\language76
-\l@usenglishmax=\language77
-\l@welsh=\language78
-\babelcatcodetablenum=\catcodetable14
-\bbl@pattcodes=\catcodetable15
-)
-\babel@savecnt=\count295
+\babel@savecnt=\count297
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
 ne 2043.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
@@ -290,24 +171,25 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?)
 on input line 2051.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
 on input line 2076.
-\U@D=\dimen159
+\U@D=\dimen160
 \l@unhyphenated=\language79
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
-\bbl@attr@locale=\attribute4
-)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count298
+
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/babel-english/english.ld
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ld
 f
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/babel-
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-
 english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
@@ -315,88 +197,68 @@ Package babel Info: Importing font and identification data for english
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language74). Reported on input line 105.
+(babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language74). Reported on input line 108.
+(babel)             (\language73). Reported on input line 108.
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome5/fontawesome
-5.sty (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5.sty (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-07-11 L3 programming layer (loader) 
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-luat
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
-File: l3backend-luatex.def 2025-06-09 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count296
-Inserting `l3color' in `luaotfload.parse_color'.))
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3ke
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
 ys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
 .sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome5/fontawesome
-5-utex-helper.sty
-Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
-e5
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5-generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/luatex/luatexbase/luatexbase.s
-ty
-Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/luatex/ctablestack/ctablestack
-.sty
-Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count297
-)
-\CatcodeTableOther=\catcodetable16
-\CatcodeTableExpl=\catcodetable17
-)
-LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
-nput line 69.
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome5/tufontaweso
-mefree.fd)
-LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
- input line 70.
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome5/tufontaweso
-mebrands.fd)))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome
+5-mapping.def)))
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count298
-\Gm@cntv=\count299
-\c@Gm@tempcnt=\count300
-\Gm@bindingoffset=\dimen160
-\Gm@wd@mp=\dimen161
-\Gm@odd@mp=\dimen162
-\Gm@even@mp=\dimen163
-\Gm@layoutwidth=\dimen164
-\Gm@layoutheight=\dimen165
-\Gm@layouthoffset=\dimen166
-\Gm@layoutvoffset=\dimen167
+\Gm@cnth=\count300
+\Gm@cntv=\count301
+\c@Gm@tempcnt=\count302
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
 \Gm@dimlist=\toks29
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/relsize/relsize.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 274.
+Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -406,359 +268,359 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/graphics/dvipsnam.def
+) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/svgnam.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
 File: svgnam.def 2024/09/29 v3.02 Predefined colors according to SVG 1.1 (UK)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/tikz.s
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
 ty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.sty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 common.tex
 \pgfutil@everybye=\toks30
-\pgfutil@tempdima=\dimen168
-\pgfutil@tempdimb=\dimen169
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 latex.def
 \pgfutil@abb=\box60
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrcs.c
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
 ode.tex
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.tex)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfcore.s
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
 ty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgfsys.s
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
 ty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 .code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeys.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
 code.tex
 \pgfkeys@pathtoks=\toks31
 \pgfkeys@temptoks=\toks32
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeysl
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
 ibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks33
 ))
-\pgf@x=\dimen170
-\pgf@y=\dimen171
-\pgf@xa=\dimen172
-\pgf@ya=\dimen173
-\pgf@xb=\dimen174
-\pgf@yb=\dimen175
-\pgf@xc=\dimen176
-\pgf@yc=\dimen177
-\pgf@xd=\dimen178
-\pgf@yd=\dimen179
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\pgf@xd=\dimen179
+\pgf@yd=\dimen180
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count301
-\c@pgf@countb=\count302
-\c@pgf@countc=\count303
-\c@pgf@countd=\count304
+\c@pgf@counta=\count303
+\c@pgf@countb=\count304
+\c@pgf@countc=\count305
+\c@pgf@countd=\count306
 \t@pgf@toka=\toks34
 \t@pgf@tokb=\toks35
 \t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count305
+\pgf@sys@id@count=\count307
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf.cf
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
 g
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-luatex.def
+Driver file for pgf: pgfsys-pdftex.def
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
--luatex.def
-File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 -common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 softpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count306
-\pgfsyssoftpath@bigbuffer@items=\count307
+\pgfsyssoftpath@smallbuffer@items=\count308
+\pgfsyssoftpath@bigbuffer@items=\count309
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 protocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 .code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
 tex
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathutil.c
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
 ode.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathparser
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
 .code.tex
-\pgfmath@dimen=\dimen180
-\pgfmath@count=\count308
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count310
 \pgfmath@box=\box61
 \pgfmath@toks=\toks37
 \pgfmath@stack@operand=\toks38
 \pgfmath@stack@operation=\toks39
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.basic.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.trigonometric.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.random.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.comparison.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.base.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.round.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.misc.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
 ons.integerarithmetics.code.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathcalc.c
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
 ode.tex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfloat.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
 code.tex
-\c@pgfmathroundto@lastzeros=\count309
+\c@pgfmathroundto@lastzeros=\count311
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.code.t
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
 ex)
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 points.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen181
-\pgf@picmaxx=\dimen182
-\pgf@picminy=\dimen183
-\pgf@picmaxy=\dimen184
-\pgf@pathminx=\dimen185
-\pgf@pathmaxx=\dimen186
-\pgf@pathminy=\dimen187
-\pgf@pathmaxy=\dimen188
-\pgf@xx=\dimen189
-\pgf@xy=\dimen190
-\pgf@yx=\dimen191
-\pgf@yy=\dimen192
-\pgf@zx=\dimen193
-\pgf@zy=\dimen194
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen195
-\pgf@path@lasty=\dimen196
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen197
-\pgf@shorten@start@additional=\dimen198
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 scopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box62
 \pgf@hbox=\box63
 \pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count310
+\pgf@picture@serial@count=\count312
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 graphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen199
+\pgflinewidth=\dimen256
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 transformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen256
-\pgf@pt@y=\dimen257
-\pgf@pt@temp=\dimen258
+\pgf@pt@x=\dimen257
+\pgf@pt@y=\dimen258
+\pgf@pt@temp=\dimen259
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 quick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 objects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 arrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen259
+\pgfarrowsep=\dimen260
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 shade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen260
-\pgf@sys@shading@range@num=\count311
-\pgf@shadingcount=\count312
+\pgf@max=\dimen261
+\pgf@sys@shading@range@num=\count313
+\pgf@shadingcount=\count314
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 image.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 external.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box65
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 layers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 transparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 patterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 rdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodules
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
 hapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box66
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodulep
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
 lot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfcom
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen261
-\pgf@nodesepend=\dimen262
+\pgf@nodesepstart=\dimen262
+\pgf@nodesepend=\dimen263
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfcom
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffor.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfkeys.st
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
 y
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeys.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
 code.tex))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath.sty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
 tex))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgffor.c
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
 ode.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen263
-\pgffor@skip=\dimen264
+\pgffor@iter=\dimen264
+\pgffor@skip=\dimen265
 \pgffor@stack=\toks40
 \pgffor@toks=\toks41
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/tikz.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgflibra
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count313
-\pgfplotmarksize=\dimen265
+\pgf@plot@mark@count=\count315
+\pgfplotmarksize=\dimen266
 )
-\tikz@lastx=\dimen266
-\tikz@lasty=\dimen267
-\tikz@lastxsaved=\dimen268
-\tikz@lastysaved=\dimen269
-\tikz@lastmovetox=\dimen270
-\tikz@lastmovetoy=\dimen271
-\tikzleveldistance=\dimen272
-\tikzsiblingdistance=\dimen273
+\tikz@lastx=\dimen267
+\tikz@lasty=\dimen268
+\tikz@lastxsaved=\dimen269
+\tikz@lastysaved=\dimen270
+\tikz@lastmovetox=\dimen271
+\tikz@lastmovetoy=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
 \tikz@figbox=\box67
 \tikz@figbox@bg=\box68
 \tikz@tempbox=\box69
 \tikz@tempbox@bg=\box70
-\tikztreelevel=\count314
-\tikznumberofchildren=\count315
-\tikznumberofcurrentchild=\count316
-\tikz@fig@count=\count317
+\tikztreelevel=\count316
+\tikznumberofchildren=\count317
+\tikznumberofcurrentchild=\count318
+\tikz@fig@count=\count319
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodulem
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
 atrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count318
-\pgfmatrixcurrentcolumn=\count319
-\pgf@matrix@numberofcolumns=\count320
+\pgfmatrixcurrentrow=\count320
+\pgfmatrixcurrentcolumn=\count321
+\pgf@matrix@numberofcolumns=\count322
 )
-\tikz@expandcount=\count321
+\tikz@expandcount=\count323
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibrarytopaths.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.geometric.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/shapes/p
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
 gflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.misc.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/shapes/p
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
 gflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.symbols.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/shapes/p
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
 gflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.arrows.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/shapes/p
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
 gflibraryshapes.arrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.callouts.code.tex
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/shapes/p
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
 gflibraryshapes.callouts.code.tex))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshapes.multipart.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/shapes/p
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
 gflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodepartlowerbox=\box71
@@ -782,99 +644,98 @@ File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodepartsixbox=\box89
 \pgfnodepartfivebox=\box90
 )))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryshadows.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshadows.code.tex
 File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
-/libraries/tikzlibraryfadings.code.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgflibra
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryfadings.code.tex
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/comment/comment.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write4
 
 Excluding comment 'comment')
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
 sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.st
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
 y
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks42
-) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count322
+\etb@tempcnta=\count324
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty
+)) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count323
+\lrq@indent=\count325
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count324
-\c@listtotal=\count325
-\c@listcount=\count326
-\c@liststart=\count327
-\c@liststop=\count328
-\c@citecount=\count329
-\c@citetotal=\count330
-\c@multicitecount=\count331
-\c@multicitetotal=\count332
-\c@instcount=\count333
-\c@maxnames=\count334
-\c@minnames=\count335
-\c@maxitems=\count336
-\c@minitems=\count337
-\c@citecounter=\count338
-\c@maxcitecounter=\count339
-\c@savedcitecounter=\count340
-\c@uniquelist=\count341
-\c@uniquename=\count342
-\c@refsection=\count343
-\c@refsegment=\count344
-\c@maxextratitle=\count345
-\c@maxextratitleyear=\count346
-\c@maxextraname=\count347
-\c@maxextradate=\count348
-\c@maxextraalpha=\count349
-\c@abbrvpenalty=\count350
-\c@highnamepenalty=\count351
-\c@lownamepenalty=\count352
-\c@maxparens=\count353
-\c@parenlevel=\count354
-\blx@tempcnta=\count355
-\blx@tempcntb=\count356
-\blx@tempcntc=\count357
-\c@blx@maxsection=\count358
-\blx@maxsegment@0=\count359
-\blx@notetype=\count360
-\blx@parenlevel@text=\count361
-\blx@parenlevel@foot=\count362
-\blx@sectionciteorder@0=\count363
-\blx@sectionciteorderinternal@0=\count364
-\blx@entrysetcounter=\count365
-\blx@biblioinstance=\count366
+\c@tabx@nest=\count326
+\c@listtotal=\count327
+\c@listcount=\count328
+\c@liststart=\count329
+\c@liststop=\count330
+\c@citecount=\count331
+\c@citetotal=\count332
+\c@multicitecount=\count333
+\c@multicitetotal=\count334
+\c@instcount=\count335
+\c@maxnames=\count336
+\c@minnames=\count337
+\c@maxitems=\count338
+\c@minitems=\count339
+\c@citecounter=\count340
+\c@maxcitecounter=\count341
+\c@savedcitecounter=\count342
+\c@uniquelist=\count343
+\c@uniquename=\count344
+\c@refsection=\count345
+\c@refsegment=\count346
+\c@maxextratitle=\count347
+\c@maxextratitleyear=\count348
+\c@maxextraname=\count349
+\c@maxextradate=\count350
+\c@maxextraalpha=\count351
+\c@abbrvpenalty=\count352
+\c@highnamepenalty=\count353
+\c@lownamepenalty=\count354
+\c@maxparens=\count355
+\c@parenlevel=\count356
+\blx@tempcnta=\count357
+\blx@tempcntb=\count358
+\blx@tempcntc=\count359
+\c@blx@maxsection=\count360
+\blx@maxsegment@0=\count361
+\blx@notetype=\count362
+\blx@parenlevel@text=\count363
+\blx@parenlevel@foot=\count364
+\blx@sectionciteorder@0=\count365
+\blx@sectionciteorderinternal@0=\count366
+\blx@entrysetcounter=\count367
+\blx@biblioinstance=\count368
 \labelnumberwidth=\skip69
 \labelalphawidth=\skip70
 \biblabelsep=\skip71
@@ -886,101 +747,101 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read4
 \blx@bcfout=\write5
 \blx@langwohyphens=\language80
-\c@mincomprange=\count367
-\c@maxcomprange=\count368
-\c@mincompwidth=\count369
+\c@mincomprange=\count369
+\c@maxcomprange=\count370
+\c@mincompwidth=\count371
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-dm.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex bibstyle data model...
 Package biblatex Info: ... file 'apa.dbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/apa.dbx
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
 File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count370
-\c@savedafterword=\count371
-\c@annotator=\count372
-\c@savedannotator=\count373
-\c@author=\count374
-\c@savedauthor=\count375
-\c@bookauthor=\count376
-\c@savedbookauthor=\count377
-\c@commentator=\count378
-\c@savedcommentator=\count379
-\c@editor=\count380
-\c@savededitor=\count381
-\c@editora=\count382
-\c@savededitora=\count383
-\c@editorb=\count384
-\c@savededitorb=\count385
-\c@editorc=\count386
-\c@savededitorc=\count387
-\c@foreword=\count388
-\c@savedforeword=\count389
-\c@holder=\count390
-\c@savedholder=\count391
-\c@introduction=\count392
-\c@savedintroduction=\count393
-\c@namea=\count394
-\c@savednamea=\count395
-\c@nameb=\count396
-\c@savednameb=\count397
-\c@namec=\count398
-\c@savednamec=\count399
-\c@translator=\count400
-\c@savedtranslator=\count401
-\c@shortauthor=\count402
-\c@savedshortauthor=\count403
-\c@shorteditor=\count404
-\c@savedshorteditor=\count405
-\c@narrator=\count406
-\c@savednarrator=\count407
-\c@execproducer=\count408
-\c@savedexecproducer=\count409
-\c@execdirector=\count410
-\c@savedexecdirector=\count411
-\c@with=\count412
-\c@savedwith=\count413
-\c@labelname=\count414
-\c@savedlabelname=\count415
-\c@institution=\count416
-\c@savedinstitution=\count417
-\c@lista=\count418
-\c@savedlista=\count419
-\c@listb=\count420
-\c@savedlistb=\count421
-\c@listc=\count422
-\c@savedlistc=\count423
-\c@listd=\count424
-\c@savedlistd=\count425
-\c@liste=\count426
-\c@savedliste=\count427
-\c@listf=\count428
-\c@savedlistf=\count429
-\c@location=\count430
-\c@savedlocation=\count431
-\c@organization=\count432
-\c@savedorganization=\count433
-\c@origlocation=\count434
-\c@savedoriglocation=\count435
-\c@origpublisher=\count436
-\c@savedorigpublisher=\count437
-\c@publisher=\count438
-\c@savedpublisher=\count439
-\c@language=\count440
-\c@savedlanguage=\count441
-\c@origlanguage=\count442
-\c@savedoriglanguage=\count443
-\c@citation=\count444
-\c@savedcitation=\count445
-\c@pageref=\count446
-\c@savedpageref=\count447
+\c@afterword=\count372
+\c@savedafterword=\count373
+\c@annotator=\count374
+\c@savedannotator=\count375
+\c@author=\count376
+\c@savedauthor=\count377
+\c@bookauthor=\count378
+\c@savedbookauthor=\count379
+\c@commentator=\count380
+\c@savedcommentator=\count381
+\c@editor=\count382
+\c@savededitor=\count383
+\c@editora=\count384
+\c@savededitora=\count385
+\c@editorb=\count386
+\c@savededitorb=\count387
+\c@editorc=\count388
+\c@savededitorc=\count389
+\c@foreword=\count390
+\c@savedforeword=\count391
+\c@holder=\count392
+\c@savedholder=\count393
+\c@introduction=\count394
+\c@savedintroduction=\count395
+\c@namea=\count396
+\c@savednamea=\count397
+\c@nameb=\count398
+\c@savednameb=\count399
+\c@namec=\count400
+\c@savednamec=\count401
+\c@translator=\count402
+\c@savedtranslator=\count403
+\c@shortauthor=\count404
+\c@savedshortauthor=\count405
+\c@shorteditor=\count406
+\c@savedshorteditor=\count407
+\c@narrator=\count408
+\c@savednarrator=\count409
+\c@execproducer=\count410
+\c@savedexecproducer=\count411
+\c@execdirector=\count412
+\c@savedexecdirector=\count413
+\c@with=\count414
+\c@savedwith=\count415
+\c@labelname=\count416
+\c@savedlabelname=\count417
+\c@institution=\count418
+\c@savedinstitution=\count419
+\c@lista=\count420
+\c@savedlista=\count421
+\c@listb=\count422
+\c@savedlistb=\count423
+\c@listc=\count424
+\c@savedlistc=\count425
+\c@listd=\count426
+\c@savedlistd=\count427
+\c@liste=\count428
+\c@savedliste=\count429
+\c@listf=\count430
+\c@savedlistf=\count431
+\c@location=\count432
+\c@savedlocation=\count433
+\c@organization=\count434
+\c@savedorganization=\count435
+\c@origlocation=\count436
+\c@savedoriglocation=\count437
+\c@origpublisher=\count438
+\c@savedorigpublisher=\count439
+\c@publisher=\count440
+\c@savedpublisher=\count441
+\c@language=\count442
+\c@savedlanguage=\count443
+\c@origlanguage=\count444
+\c@savedoriglanguage=\count445
+\c@citation=\count446
+\c@savedcitation=\count447
+\c@pageref=\count448
+\c@savedpageref=\count449
 \shorthandwidth=\skip77
 \shortjournalwidth=\skip78
 \shortserieswidth=\skip79
@@ -995,48 +856,43 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip88
 \localshortauthorwidth=\skip89
 \localshorteditorwidth=\skip90
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-unicode.def
-)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-compat.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count448
-\c@textcitetotal=\count449
-\c@textcitemaxnames=\count450
-\c@biburlbigbreakpenalty=\count451
-\c@biburlbreakpenalty=\count452
-\c@biburlnumpenalty=\count453
-\c@biburlucpenalty=\count454
-\c@biburllcpenalty=\count455
+\c@textcitecount=\count450
+\c@textcitetotal=\count451
+\c@textcitemaxnames=\count452
+\c@biburlbigbreakpenalty=\count453
+\c@biburlbreakpenalty=\count454
+\c@biburlnumpenalty=\count455
+\c@biburlucpenalty=\count456
+\c@biburllcpenalty=\count457
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count456
+\c@smartand=\count458
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/apa.bbx
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.bbx
 File: apa.bbx 2023/03/20 v9.17 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/standard.bb
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
 x
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count457
-\c@bbx:relatedtotal=\count458
+\c@bbx:relatedcount=\count459
+\c@bbx:relatedtotal=\count460
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
 ed, overwriting.
@@ -1050,7 +906,7 @@ Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/numeric.cbx
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
 File: numeric.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -1066,90 +922,93 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.cfg
+ (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
 (biblatex)             2025-07-11 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-case-expl3.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
 sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count459
-\csq@gtype=\count460
-\csq@glevel=\count461
-\csq@qlevel=\count462
-\csq@maxlvl=\count463
-\csq@tshold=\count464
-\csq@ltx@everypar=\toks43
+\csq@reset=\count461
+\csq@gtype=\count462
+\csq@glevel=\count463
+\csq@qlevel=\count464
+\csq@maxlvl=\count465
+\csq@tshold=\count466
+\csq@ltx@everypar=\toks42
 Package csquotes Info: The 'quote' environment appears to be undefined.
 (csquotes)             I'm defining a typical 'quote' environment now.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.cfg
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
 ))
-\c@bibitem=\count465
+\c@bibitem=\count467
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefinek
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
 eys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.st
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
 y
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettitl
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
 estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count466
+\c@section@level=\count468
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.st
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
 y
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen274
-\Hy@linkcounter=\count467
-\Hy@pagecounter=\count468
- (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+\@linkdim=\dimen275
+\Hy@linkcounter=\count469
+\Hy@pagecounter=\count470
+ (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count469
+\Hy@SavedSpaceFactor=\count471
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4066.
 Package hyperref Info: Option `breaklinks' set `true' on input line 4066.
@@ -1160,21 +1019,21 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count470
+\c@Hy@tempcnt=\count472
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen275
+\XeTeXLinkMargin=\dimen276
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
 sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count471
-\Field@Width=\dimen276
-\Fld@charsize=\dimen277
+\Fld@menulength=\count473
+\Field@Width=\dimen277
+\Fld@charsize=\dimen278
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -1182,22 +1041,22 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring ON on input line 6096.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count472
-\c@Item=\count473
-\c@Hfootnote=\count474
+\Hy@abspage=\count474
+\c@Item=\count475
+\c@Hfootnote=\count476
 )
-Package hyperref Info: Driver (autodetected): hluatex.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2025-07-12 v7.01o Hyperref driver for luaTeX
-\Fld@listcount=\count475
-\c@bookmark@seq@number=\count476
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count477
+\c@bookmark@seq@number=\count478
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfile
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
 check.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniqueco
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
 unter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
@@ -1206,7 +1065,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip91
 ))
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip92
 \RaggedLeftLeftskip=\skip93
@@ -1223,39 +1082,39 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip104
 \JustifyingParindent=\skip105
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/mhchem/mhchem.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
 Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
 \@mathmargin=\skip106
 
 For additional information on amsmath, use the `?' option.
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks44
-\ex@=\dimen278
+\@emptytoks=\toks43
+\ex@=\dimen279
 )
 LaTeX Info: Redefining \text on input line 28.
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen279
+\pmbraise@=\dimen280
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count477
-LaTeX Info: Redefining \frac on input line 235.
-\uproot@=\count478
-\leftroot@=\count479
+\inf@bad=\count479
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count480
+\leftroot@=\count481
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count480
-\DOTSCASE@=\count481
+\classnum@=\count482
+\DOTSCASE@=\count483
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -1265,44 +1124,44 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen280
+\big@size=\dimen281
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count482
+\macc@depth=\count484
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count483
+\c@MaxMatrixCols=\count485
 \dotsspace@=\muskip22
-\c@parentequation=\count484
-\dspbrk@lvl=\count485
-\tag@help=\toks45
-\row@=\count486
-\column@=\count487
-\maxfields@=\count488
-\andhelp@=\toks46
-\eqnshift@=\dimen281
-\alignsep@=\dimen282
-\tagshift@=\dimen283
-\tagwidth@=\dimen284
-\totwidth@=\dimen285
-\lineht@=\dimen286
-\@envbody=\toks47
+\c@parentequation=\count486
+\dspbrk@lvl=\count487
+\tag@help=\toks44
+\row@=\count488
+\column@=\count489
+\maxfields@=\count490
+\andhelp@=\toks45
+\eqnshift@=\dimen282
+\alignsep@=\dimen283
+\tagshift@=\dimen284
+\tagwidth@=\dimen285
+\totwidth@=\dimen286
+\lineht@=\dimen287
+\@envbody=\toks46
 \multlinegap=\skip107
 \multlinetaggap=\skip108
-\mathdisplay@stack=\toks48
+\mathdisplay@stack=\toks47
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/chemgreek/chemgreek.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count489
-\g__chemgreek_tmpa_int=\count490
+\l__chemgreek_tmpa_int=\count491
+\g__chemgreek_tmpa_int=\count492
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count491
+\l__mhchem_ce_distanceFromLastComma_int=\count493
 \__mhchem_arrow_extPgfLength_skip=\skip109
 \mhchem@minispace@tmp=\skip110
 \mhchem@minibackspace@tmp=\skip111
@@ -1313,90 +1172,68 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@smallbondwidth=\skip116
 \mhchem@bondtmp@minussidebearingleft=\skip117
 \mhchem@bondtmp@minussidebearingright=\skip118
-\l__mhchem_option_version_int=\count492
-\mhchem@option@minusmathsidebearingleft=\dimen287
-\mhchem@option@minusmathsidebearingright=\dimen288
-\mhchem@option@minustextsidebearingleft=\dimen289
-\mhchem@option@minustextsidebearingright=\dimen290
+\l__mhchem_option_version_int=\count494
+\mhchem@option@minusmathsidebearingleft=\dimen288
+\mhchem@option@minusmathsidebearingright=\dimen289
+\mhchem@option@minustextsidebearingleft=\dimen290
+\mhchem@option@minustextsidebearingright=\dimen291
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks49
+\MT@toks=\toks48
 \MT@tempbox=\box93
-\MT@count=\count493
+\MT@count=\count495
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks50
+\MT@prot@toks=\toks49
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen291
+\MT@outer@kern=\dimen292
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count494
+\MT@listname@count=\count496
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype-luat
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdft
 ex.def
-File: microtype-luatex.def 2025/07/09 v3.2b Definitions specific to luatex (RS)
+File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
 
-Lua module: microtype 2025/07/09 v3.2b microtype module.
-Module microtype Info: overwriting function `keepligature' on input line 63
-LaTeX Info: Redefining \lsstyle on input line 779.
-LaTeX Info: Redefining \lslig on input line 779.
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip119
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.cfg
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
-) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luatex
-.sty
-Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
-eX
-\l__fontspec_script_int=\count495
-\l__fontspec_language_int=\count496
-\l__fontspec_strnum_int=\count497
-\l__fontspec_tmp_int=\count498
-\l__fontspec_tmpa_int=\count499
-\l__fontspec_tmpb_int=\count500
-\l__fontspec_tmpc_int=\count501
-\l__fontspec_em_int=\count502
-\l__fontspec_emdef_int=\count503
-\l__fontspec_strong_int=\count504
-\l__fontspec_strongdef_int=\count505
-\l__fontspec_tmpa_dim=\dimen292
-\l__fontspec_tmpb_dim=\dimen293
-\l__fontspec_tmpc_dim=\dimen294
- (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg))) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cochineal/cochineal.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\cochineal.sty
 Package: cochineal 2023/11/13 v1.08.
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks51
-\XKV@tempa@toks=\toks52
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
 )
-\XKV@depth=\count506
+\XKV@depth=\count497
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty
+)) (C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/xstring/xstring.tex
-\xs_counta=\count507
-\xs_countb=\count508
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count498
+\xs_countb=\count499
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/carlisle/scalefnt.sty)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
 LaTeX Font Info:    Changing Cochineal-LF sub-encoding to TS1/0 on input line 1
 1.
 LaTeX Font Info:    Changing Cochineal-TLF sub-encoding to TS1/0 on input line 
@@ -1405,630 +1242,67 @@ LaTeX Font Info:    Changing Cochineal-OsF sub-encoding to TS1/0 on input line
 11.
 LaTeX Font Info:    Changing Cochineal-TOsF sub-encoding to TS1/0 on input line
  11.
-\coch@cnt=\count509
-LaTeX Info: Redefining \slshape on input line 340.
-LaTeX Info: Redefining \textsl on input line 341.
-LaTeX Info: Redefining \oldstylenums on input line 359.
-LaTeX Info: Redefining \liningnums on input line 363.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cochineal/Cochineal.font
-spec)
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cochineal(0)' created for font 'Cochineal'
-(fontspec)             with options [Ligatures = TeX,Extension =
-(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Style =
-(fontspec)             Swash,Numbers = {Monospaced,Lining},Scale =
-(fontspec)             1,UprightFont = *-Roman,ItalicFont = *-Italic,BoldFont
-(fontspec)             = *-Bold,BoldItalicFont = *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+tnum;+lnum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+tnum;+lnum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+tnum;+lnum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+tnum;+lnum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+tnum;+lnum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+tnum;+lnum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+tnum;+lnum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+tnum;+lnum;+smcp;"
-
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cochineal/Cochineal.font
-spec)
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cochineal(1)' created for font 'Cochineal'
-(fontspec)             with options [Ligatures = TeX,Extension =
-(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Style =
-(fontspec)             Swash,Numbers = {Monospaced,OldStyle},Scale =
-(fontspec)             1,UprightFont = *-Roman,ItalicFont = *-Italic,BoldFont
-(fontspec)             = *-Bold,BoldItalicFont = *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+tnum;+onum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+tnum;+onum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+tnum;+onum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+tnum;+onum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+tnum;+onum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+tnum;+onum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+tnum;+onum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+tnum;+onum;+smcp;"
-
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cochineal/Cochineal.font
-spec)
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cochineal(2)' created for font 'Cochineal'
-(fontspec)             with options [Ligatures = TeX,Extension =
-(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Style =
-(fontspec)             Swash,Numbers = {Proportional,OldStyle},Scale =
-(fontspec)             1,UprightFont = *-Roman,ItalicFont = *-Italic,BoldFont
-(fontspec)             = *-Bold,BoldItalicFont = *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+pnum;+onum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+pnum;+onum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+pnum;+onum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+pnum;+onum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+pnum;+onum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+pnum;+onum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+pnum;+onum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+pnum;+onum;+smcp;"
-
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cochineal/Cochineal.font
-spec)
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cochineal(3)' created for font 'Cochineal'
-(fontspec)             with options [Ligatures = TeX,Extension =
-(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Style =
-(fontspec)             Swash,Numbers = {Proportional,Lining},Scale =
-(fontspec)             1,UprightFont = *-Roman,ItalicFont = *-Italic,BoldFont
-(fontspec)             = *-Bold,BoldItalicFont = *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+pnum;+lnum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+swsh;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+pnum;+lnum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+swsh;+pnum;+lnum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+pnum;+lnum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+swsh;+pnum;+lnum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+pnum;+lnum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+swsh;+pnum;+lnum;+smcp;"
-
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/realscripts/realscripts.
-sty
-Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
-ts
-\subsupersep=\dimen295
-)) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cabin/cabin.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+\coch@cnt=\count500
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figurever
+sions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+))
+LaTeX Encoding Info:    Redeclaring text command \textcircled (encoding TS1) on
+ input line 514.
+)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/cabin\cabin.sty
 Package: cabin 2023/09/25 (Bob Tennent) Supports Cabin fonts for all LaTeX engi
 nes.
 
-Package fontspec Info: 
-(fontspec)             Cabin-Medium scale = 1.
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-TLF on inp
+ut line 116.
 
-
-Package fontspec Info: 
-(fontspec)             Cabin-Medium scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Medium scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-MediumItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-MediumItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cabin(0)' created for font 'Cabin' with
-(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
-(fontspec)             .otf,Ligatures=TeX,UprightFont = *-Medium,ItalicFont =
-(fontspec)             *-MediumItalic,BoldFont = *-Bold,BoldItalicFont =
-(fontspec)             *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Medium.otf]:mode=node;script=latn;langua
-ge=dflt;+tlig;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Medium.otf]:mode=node;script=latn;langua
-ge=dflt;+tlig;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Bold.otf]:mode=node;script=latn;language
-=dflt;+tlig;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Bold.otf]:mode=node;script=latn;language
-=dflt;+tlig;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-MediumItalic.otf]:mode=node;script=latn;
-language=dflt;+tlig;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-MediumItalic.otf]:mode=node;script=latn;
-language=dflt;+tlig;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-BoldItalic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-BoldItalic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+smcp;"
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Medium scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Medium scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Medium scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-MediumItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-MediumItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cabin-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cabin(1)' created for font 'Cabin' with
-(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
-(fontspec)             .otf,UprightFont = *-Medium,ItalicFont =
-(fontspec)             *-MediumItalic,BoldFont = *-Bold,BoldItalicFont =
-(fontspec)             *-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Medium.otf]:mode=node;script=latn;langua
-ge=dflt;+tlig;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Medium.otf]:mode=node;script=latn;langua
-ge=dflt;+tlig;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Bold.otf]:mode=node;script=latn;language
-=dflt;+tlig;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-Bold.otf]:mode=node;script=latn;language
-=dflt;+tlig;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-MediumItalic.otf]:mode=node;script=latn;
-language=dflt;+tlig;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-MediumItalic.otf]:mode=node;script=latn;
-language=dflt;+tlig;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-BoldItalic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cabin-BoldItalic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+smcp;"
-
-
-Package fontspec Info: 
-(fontspec)             CabinCondensed-MediumCondensed scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             CabinCondensed-MediumCondensed scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             CabinCondensed-BoldCondensed scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             CabinCondensed-MediumItalicCondensed scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             CabinCondensed-BoldItalicCondensed scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'CabinCondensed(0)' created for font
-(fontspec)             'CabinCondensed' with options [Ligatures = TeX,Scale =
-(fontspec)             1,Extension = .otf,UprightFont =
-(fontspec)             *-MediumCondensed,ItalicFont =
-(fontspec)             *-MediumItalicCondensed,BoldFont =
-(fontspec)             *-BoldCondensed,BoldItalicFont =
-(fontspec)             *-BoldItalicCondensed].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[CabinCondensed-MediumCondensed.otf]:mode=node;
-script=latn;language=dflt;+tlig;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[CabinCondensed-BoldCondensed.otf]:mode=node;sc
-ript=latn;language=dflt;+tlig;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[CabinCondensed-MediumItalicCondensed.otf]:mode
-=node;script=latn;language=dflt;+tlig;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[CabinCondensed-BoldItalicCondensed.otf]:mode=n
-ode;script=latn;language=dflt;+tlig;"
-
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\t1cochineal-tl
+f.fd
+File: T1Cochineal-TLF.fd 2019/06/21 (msharpe) Font definitions for T1/Cochineal
+-TLF.
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/inconsolata/zi4.sty
+LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 116.
+))
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\zi4.sty
 Package: zi4 2019/05/17 v1.12
 
 `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
-\zifour@ocount=\count510
+\zifour@ocount=\count501
 )
-Excluding comment 'fullonly' Excluding 'fullonly' comment.
+Include comment 'fullonly' Including 'fullonly' comment.
+\openout4 = `comment.cut'.
+
+
+Straight input of comment.cut. (comment.cut)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
+LaTeX Info: Redefining \oldstylenums on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on inp
+ut line 70.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cochineal/Cochineal.font
-spec)
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cochineal(4)' created for font 'Cochineal'
-(fontspec)             with options [Ligatures=TeX,Extension = .otf,Numbers =
-(fontspec)             {Proportional,OldStyle},Scale = 1,UprightFont =
-(fontspec)             Cochineal-Roman,ItalicFont = Cochineal-Italic,BoldFont
-(fontspec)             = Cochineal-Bold,BoldItalicFont =
-(fontspec)             Cochineal-BoldItalic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+pnum;+onum;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Roman.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+pnum;+onum;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+pnum;+onum;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Bold.otf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+pnum;+onum;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+pnum;+onum;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-Italic.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+pnum;+onum;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+onum;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+pnum;+onum;+smcp;"
-
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\t1cochineal-os
+f.fd
+File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal
+-OsF.
+)
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 70.
-luaotfload | cache : Lookup cache loaded from C:/Users/devi/AppData/Local/MiKTeX
-/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Cochineal-Roman scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Cochineal-Roman(0)' created for font
-(fontspec)             'Cochineal-Roman' with options
-(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={},Scale =
-(fontspec)             1,SmallCapsFeatures={Letters=SmallCaps}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"name:Cochineal-Roman:mode=node;script=latn;lang
-uage=dflt;"
-
- (./Devulapalli_CV.aux)
-\openout1 = Devulapalli_CV.aux
+ (Devulapalli_CV.aux)
+\openout1 = `Devulapalli_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -2040,8 +1314,6 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
@@ -2051,45 +1323,45 @@ LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mki
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count511
-\scratchdimen=\dimen296
+\scratchcounter=\count502
+\scratchdimen=\dimen293
 \scratchbox=\box94
-\nofMPsegments=\count512
-\nofMParguments=\count513
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count514
-\MPscratchDim=\dimen297
-\MPnumerator=\count515
-\makeMPintoPDFobject=\count516
-\everyMPtoPDFconversion=\toks54
+\nofMPsegments=\count503
+\nofMParguments=\count504
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count505
+\MPscratchDim=\dimen294
+\MPnumerator=\count506
+\makeMPintoPDFobject=\count507
+\everyMPtoPDFconversion=\toks53
 )
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-ba
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.cf
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
-*geometry* detected driver: luatex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: luatex
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(34.14322pt, 529.22144pt, 34.14322pt)
-* v-part:(T,H,B)=(34.14322pt, 776.7604pt, 34.14322pt)
+* v-part:(T,H,B)=(34.14322pt, 782.45088pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=529.22144pt
-* \textheight=776.7604pt
+* \textheight=782.45088pt
 * \oddsidemargin=-38.12677pt
 * \evensidemargin=-38.12677pt
 * \topmargin=-38.12677pt
@@ -2113,51 +1385,50 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/english-apa
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-apa
 .lbx
 File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/english.lbx
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/american-ap
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\american-ap
 a.lbx
 File: american-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/american.lb
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lb
 x
 File: american.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/english.lbx
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))))
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `Devulapalli_CV.bcf'.
 
-\openout5 = Devulapalli_CV.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Devulapalli_CV.bbl' found.
- (./Devulapalli_CV.bbl)
+ (Devulapalli_CV.bbl)
 Package biblatex Info: Reference section=0 on input line 70.
 Package biblatex Info: Reference segment=0 on input line 70.
 Package hyperref Info: Link coloring ON on input line 70.
- (./Devulapalli_CV.out) (./Devulapalli_CV.out)
+ (Devulapalli_CV.out) (Devulapalli_CV.out)
 \@outlinefile=\write6
+\openout6 = `Devulapalli_CV.out'.
 
-\openout6 = Devulapalli_CV.out
 
-Package chemgreek Info: Activating mapping `fontspec' on line 70.
+Package chemgreek Info: Activating mapping `default' on line 70.
 
 LaTeX Info: Redefining \microtypecontext on input line 70.
 Package microtype Info: Applying patch `item' on input line 70.
@@ -2174,99 +1445,157 @@ Package microtype Info: Automatic font expansion enabled (level 2),
 Package microtype Info: Using default expansion set `alltext-nott'.
 Package microtype Info: Patching command `\showhyphens'.
 Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of spacing.
-Package microtype Info: No adjustment of kerning.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `Cochineal' (encoding: TU).
+(microtype)             `Cochineal-OsF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Encoding Info:    Undeclare text command \textquotesingle (encoding TU) o
-n input line 70.
-LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1)
- on input line 70.
+\c@mv@tabular=\count508
+\c@mv@boldtabular=\count509
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/upquote/upquote.sty
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 71.
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/b/n' will be
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 71.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/b/n' will be
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input l
+ine 71.
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/cabin\t1cabin-tlf.fd
+File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
+)
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
+(Font)              `T1/Cabin-TLF/bold/n' on input line 71.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 17.28pt on input line 71.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `Cabin' (encoding: TU).
+(microtype)             `Cabin-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 71.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/m/n' will be
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' aliased to
+(Font)              `T1/Cabin-TLF/regular/n' on input line 71.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 71.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
+nput line 71.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-TU-empty.cf
-g
-File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
-ndard glyph set (RS)
-)
-LaTeX Font Info:    Trying to load font information for TU+zi4 on input line 71
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
+efree2.fd)
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 71
 .
-LaTeX Font Info:    No file TUzi4.fd. on input line 71.
 
-
-LaTeX Font Warning: Font shape `TU/zi4/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 71.
-
-
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-LatinModern
-Roman.cfg
-File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
-ern Roman (RS)
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 71.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: TU).
+(microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 71.
 
-(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cfg
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
+efree1.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 71.
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
+ebrands0.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
+ot available
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
+n input line 71.
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(./summary.tex
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
+<profile_pic.jpeg, id=33, 401.5pt x 401.5pt>
+File: profile_pic.jpeg Graphic file (type jpg)
+<use profile_pic.jpeg>
+Package pdftex.def Info: profile_pic.jpeg  used on input line 71.
+(pdftex.def)             Requested size: 127.01604pt x 127.01228pt.
+
+(summary.tex
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/b/n' will be
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/b/n' will be
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
+(Font)              `T1/Cabin-TLF/bold/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
-) (./education.tex) (./education.tex) (./education.tex)
-(./education.tex) (./publications.tex
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
+) (education.tex
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesom
+efree0.fd)) (education.tex) (education.tex) (education.tex) (publications.tex
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/b/n' will be
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/b/n' will be
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
+(Font)              `T1/Cabin-TLF/bold/n' on input line 6.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/m/n' will be
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' aliased to
+(Font)              `T1/Cabin-TLF/regular/n' on input line 6.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
 (Font)              scaled to size 10.95pt on input line 6.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/m/n' will be
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' aliased to
+(Font)              `T1/Cabin-TLF/regular/n' on input line 6.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
 (Font)              scaled to size 8.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/Cabin(0)/b/n' will be
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
+(Font)              `T1/Cabin-TLF/bold/n' on input line 6.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
+(Font)              scaled to size 8.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 6.
 
 
 [1
 
-{C:/Users/devi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 6.
+{C:/Users/devi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/devi/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/de
+vi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/
+Users/devi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.en
+c}{C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
+free1.enc}{C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawes
+ome5/fa5brands0.enc}{C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
+s/cochineal/coch_mzvjrl.enc}{C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/
+enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/devi/AppData/Local/Programs/MiKTe
+X/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./profile_pic.jpeg>]
+
+[2]) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (conferences.tex)
+(conferences.tex) (conferences.tex) (conferences.tex [3]) (positions.tex)
+(awards.tex
+LaTeX Font Info:    Trying to load font information for TS1+Cochineal-OsF on in
+put line 5.
+
+(C:\Users\devi\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\ts1cochineal-o
+sf.fd
+File: TS1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for TS1/Cochine
+al-OsF.
 )
-(./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex [2])
-(./conferences.tex) (./conferences.tex) (./conferences.tex) (./conferences.tex) (./positions.tex
+LaTeX Font Info:    Font shape `TS1/Cochineal-OsF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 5.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Cochineal-OsF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
-[3]) (./awards.tex) (./referee-full.tex)
 
-[4] (./Devulapalli_CV.aux)
+[4{C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_r
+wqxgv.enc}]) (referee-full.tex)
+
+[5] (Devulapalli_CV.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2295,7 +1624,7 @@ graphicx.sty    2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 graphics.sty    2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
     trig.sty    2023/12/02 v1.11 sin cos tan (DPC)
 graphics.cfg    2016/06/04 v1.11 sample graphics configuration
-  luatex.def    2024/04/13 v1.2e Graphics/color driver for luatex
+  pdftex.def    2024/04/13 v1.2c Graphics/color driver for pdftex
      url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
    babel.sty    2025/05/14 v25.9 The multilingual framework for pdfLaTeX, LuaLa
 TeX and XeLaTeX
@@ -2305,15 +1634,12 @@ abel
 babel-english.tex
 fontawesome5.sty    2022/05/02 v5.15.4 Font Awesome 5
    expl3.sty    2025-07-11 L3 programming layer (loader) 
-l3backend-luatex.def    2025-06-09 L3 backend support: PDF output (LuaTeX)
+l3backend-pdftex.def    2025-06-09 L3 backend support: PDF output (pdfTeX)
 l3keys2e.sty    2024-08-16 LaTeX2e option processing using LaTeX3 keys
   xparse.sty    2024-08-16 L3 Experimental document command parser
-fontawesome5-utex-helper.sty    2022/05/02 v5.15.4 uTeX helper for fontawesome5
-
-luatexbase.sty    2015/10/04 v1.3 luatexbase interface to LuaTeX 
-ctablestack.sty    2015/10/01 v1.0 Catcode table stable support
-tufontawesomefree.fd
-tufontawesomebrands.fd
+fontawesome5-generic-helper.sty    2022/05/02 v5.15.4 non-uTeX helper for fonta
+wesome5
+fontawesome5-mapping.def
 geometry.sty    2020/01/02 v5.9 Page Geometry
   ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 geometry.cfg
@@ -2354,7 +1680,6 @@ kvsetkeys.sty    2022-10-05 v1.19 Key value parser (HO)
   logreq.def    2010/08/04 v1.0 logreq spec v1.0
   blx-dm.def    2025/07/10 v3.21 biblatex datamodel (PK/MW)
      apa.dbx    2023/03/20 v9.17 APA biblatex style data model
-blx-unicode.def
 blx-compat.def    2025/07/10 v3.21 biblatex compatibility (PK/MW)
 biblatex.def    2025/07/10 v3.21 biblatex compatibility (PK/MW)
 standard.bbx    2025/07/10 v3.21 biblatex bibliography style (PK/MW)
@@ -2379,7 +1704,7 @@ stringenc.sty    2019/11/29 v1.12 Convert strings between diff. encodings (HO)
    puenc.def    2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
   bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
 bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
- hluatex.def    2025-07-12 v7.01o Hyperref driver for luaTeX
+ hpdftex.def    2025-07-12 v7.01o Hyperref driver for pdfTeX
 rerunfilecheck.sty    2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
 ragged2e.sty    2023/06/22 v3.6 ragged2e Package
@@ -2392,29 +1717,25 @@ ragged2e.sty    2023/06/22 v3.6 ragged2e Package
 chemgreek.sty    2020/01/16 v1.1a interface for upright Greek letters for use i
 n chemistry (CN)
 microtype.sty    2025/07/09 v3.2b Micro-typographical refinements (RS)
-microtype-luatex.def    2025/07/09 v3.2b Definitions specific to luatex (RS)
+microtype-pdftex.def    2025/07/09 v3.2b Definitions specific to pdftex (RS)
 microtype.cfg    2025/07/09 v3.2b microtype main configuration file (RS)
-fontspec.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-fontspec-luatex.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-
  fontenc.sty    2024/12/21 v2.1c Standard LaTeX package
-fontspec.cfg
 cochineal.sty    2023/11/13 v1.08.
  xkeyval.sty    2022/06/16 v2.9 package option processing (HA)
  xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
 textcomp.sty    2024/04/24 v2.1b Standard LaTeX package
  xstring.sty    2023/08/22 v1.86 String manipulations (CT)
 scalefnt.sty    
-Cochineal.fontspec
-Cochineal.fontspec
-Cochineal.fontspec
-Cochineal.fontspec
-realscripts.sty    2016/02/13 v0.3d Access OpenType subscripts and superscripts
-
+ fontenc.sty    2024/12/21 v2.1c Standard LaTeX package
+fontaxes.sty    2025-05-24 v2.0.1 Font selection axes (deprecated)
+figureversions.sty    2025-04-29 v1.0.1 Figure versions
    cabin.sty    2023/09/25 (Bob Tennent) Supports Cabin fonts for all LaTeX eng
 ines.
+ fontenc.sty    2024/12/21 v2.1c Standard LaTeX package
+t1cochineal-tlf.fd
      zi4.sty    2019/05/17 v1.12
-Cochineal.fontspec
+ comment.cut
+t1cochineal-osf.fd
 supp-pdf.mkii
 epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
 epstopdf-sys.cfg    2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
@@ -2427,14 +1748,17 @@ Devulapalli_CV.out
 Devulapalli_CV.out
  upquote.sty    2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
 im
-mt-TU-empty.cfg    2021/06/22 v1.1 microtype config. file: fonts with nonstanda
-rd glyph set (RS)
-mt-LatinModernRoman.cfg    2021/02/21 v1.1 microtype config. file: Latin Modern
- Roman (RS)
+t1cabin-tlf.fd
+ufontawesomefree2.fd
+   t1zi4.fd    2018/01/14 T1/zi4 (Inconsolata)
+ufontawesomefree1.fd
+ufontawesomebrands0.fd
   mt-cmr.cfg    2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
+profile_pic.jpeg    Graphic file (type jpg)
  summary.tex
 education.tex
+ufontawesomefree0.fd
 education.tex
 education.tex
 education.tex
@@ -2449,49 +1773,42 @@ conferences.tex
 conferences.tex
 positions.tex
   awards.tex
+ts1cochineal-osf.fd
 referee-full.tex
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Devulapalli_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Devulapalli_CV.run.xml'.
+\openout1 = `Devulapalli_CV.run.xml'.
 
-\openout1 = Devulapalli_CV.run.xml
-)
-
-Here is how much of LuaTeX's memory you used:
- 43553 strings out of 470133
- 156465,2373549 words of node,token memory allocated
- 1314 words of node memory still in use:
-   23 hlist, 2 vlist, 10 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_
-kern, 5 glyph, 63 attribute, 94 glue_spec, 57 attribute_list, 2 write, 16 pdf_li
-teral, 16 pdf_colorstack nodes
-   avail lists: 1:10,2:4629,3:1563,4:275,5:1524,6:110,7:12951,8:75,9:825,10:23,1
-1:1090
- 70788 multiletter control sequences out of 65536+600000
- 69 fonts using 8975743 bytes
- 100i,11n,109p,1206b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/users/devi/appdata/local/programs/miktex/fonts/opentype/public/cochineal/coc
-hineal-italic.otf><c:/users/devi/appdata/local/programs/miktex/fonts/opentype/pu
-blic/cochineal/cochineal-bold.otf><c:/users/devi/appdata/local/programs/miktex/f
-onts/opentype/public/cochineal/cochineal-roman.otf><c:/users/devi/appdata/local/
-programs/miktex/fonts/opentype/public/fontawesome5/fontawesome5brands-regular-40
-0.otf><c:/users/devi/appdata/local/programs/miktex/fonts/opentype/public/fontawe
-some5/fontawesome5free-regular-400.otf><c:/users/devi/appdata/local/programs/mik
-tex/fonts/opentype/public/lm/lmroman10-regular.otf><c:/users/devi/appdata/local/
-programs/miktex/fonts/opentype/public/fontawesome5/fontawesome5free-solid-900.ot
-f><c:/users/devi/appdata/local/programs/miktex/fonts/opentype/impallari/cabin/ca
-bin-medium.otf><c:/users/devi/appdata/local/programs/miktex/fonts/opentype/impal
-lari/cabin/cabin-bold.otf><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/devi/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Devulapalli_CV.pdf (4 pages, 113096 bytes).
-
-PDF statistics: 192 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 131072)
- 186 words of extra memory for PDF output out of 10000 (max. 100000000)
+ ) 
+Here is how much of TeX's memory you used:
+ 41071 strings out of 468149
+ 827571 string characters out of 5431566
+ 1815358 words of memory out of 5000000
+ 68709 multiletter control sequences out of 15000+600000
+ 916613 words of font info for 219 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 100i,11n,107p,1209b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabi
+n-Bold.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/c
+abin/Cabin-Regular.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/cochineal/Cochineal-Bold.pfb><C:/Users/devi/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/devi/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/d
+evi/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5B
+rands-Regular.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/devi/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users
+/devi/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-
+zi4r.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr8.pfb>
+Output written on Devulapalli_CV.pdf (5 pages, 373531 bytes).
+PDF statistics:
+ 215 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 61560 words of extra memory for PDF output out of 61914 (max. 10000000)
 
