@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  1 DEC 2025 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  1 DEC 2025 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1784,11 +1784,11 @@ Package logreq Info: Writing requests to 'Devulapalli_CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41071 strings out of 468149
- 827571 string characters out of 5431566
+ 41063 strings out of 468149
+ 827321 string characters out of 5431566
  1815358 words of memory out of 5000000
  68709 multiletter control sequences out of 15000+600000
- 916613 words of font info for 219 fonts, out of 8000000 for 9000
+ 915522 words of font info for 214 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,107p,1209b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabi
@@ -1806,7 +1806,7 @@ zi4r.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmr8.pfb>
-Output written on Devulapalli_CV.pdf (5 pages, 373531 bytes).
+Output written on Devulapalli_CV.pdf (5 pages, 373567 bytes).
 PDF statistics:
  215 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
